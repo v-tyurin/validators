@@ -1,0 +1,19 @@
+{
+    "name": "v.tyurin/validators",
+    "description": "standalone yii2 validators",
+    "type": "library",
+    "license": "closed",
+    "authors": [
+        {
+            "name": "xeon",
+            "email": "v.tyurin@true-studio.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Core\\library\\": "src/"
+        }
+    }
+}
