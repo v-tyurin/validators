@@ -2,7 +2,7 @@
     "name": "v.tyurin/validators",
     "description": "standalone yii2 validators",
     "type": "library",
-    "license": "closed",
+    "license": "proprietary",
     "authors": [
         {
             "name": "xeon",
